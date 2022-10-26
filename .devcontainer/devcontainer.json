@@ -1,0 +1,9 @@
+{
+    "name": "Gossamer",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "extensions": [
+        "ms-dotnettools.csharp"
+    ]
+}
