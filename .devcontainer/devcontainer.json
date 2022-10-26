@@ -4,6 +4,7 @@
         "dockerfile": "Dockerfile"
     },
     "extensions": [
-        "ms-dotnettools.csharp"
-    ]
+		"ms-dotnettools.csharp",
+		"patcx.vscode-nuget-gallery"
+	]
 }
