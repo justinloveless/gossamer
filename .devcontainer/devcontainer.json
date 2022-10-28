@@ -5,6 +5,7 @@
     },
     "extensions": [
 		"ms-dotnettools.csharp",
-		"patcx.vscode-nuget-gallery"
+		"patcx.vscode-nuget-gallery",
+		"eamodio.gitlens"
 	]
 }
